@@ -1,6 +1,5 @@
 cara pakainya
 
-
 wget https://raw.githubusercontent.com/serverutama/autoupdatedatabasemaxmind/refs/heads/main/update_maxmind.sh
 chmod +x update_maxmind.sh
 
